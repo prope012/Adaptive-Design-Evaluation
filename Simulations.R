@@ -183,4 +183,4 @@ simulation.analysis = function(null.response.probs, ns, max.ar=0.75, rand.type=c
 # Use function to compute above statistics for IBB model with prior mean 0.50, group size 15, and
 # weighted coin randomization
 set.seed(1994)
-Example = simulation.analysis(null.response.probs = null.response.probs, rand.type = "Coin", model = "tlr", pi.star = 0.50, PP.bound = 0.9872, ns=ns)
+Example = simulation.analysis(null.response.probs = null.response.probs, rand.type = "Coin", model = "ibb", pi.star = 0.50, PP.bound = 0.9872, ns=ns)
