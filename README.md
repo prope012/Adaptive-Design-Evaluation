@@ -1,6 +1,6 @@
 # Title of paper:
- Alternative Models and Randomization Techniques for Bayesian Outcome Adaptive Randomization with Binary Outcomes in the ARREST Trial
-
+ Alternative Models and Randomization Techniques for Bayesian Outcome Adaptive Randomization with Binary Outcomes
+ 
 # Purpose of the .R files
 These programs facilitate implementing the simulation study performed in the aforementioned paper as well as generating a randomization schedule using a chosen probability model and randomization method. 
 
